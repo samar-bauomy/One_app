@@ -1,0 +1,72 @@
+<?php
+
+return [
+
+    'title_page' => 'Property',
+    'List_property' => 'Property List',
+    'add_property' => 'Add Property',
+    'edit_property'=> 'Edit Property',
+    'delete_property'=> 'Delete Property',
+    'Warning_property'=> 'Are Sure Of The Deleting Process Of This Property ?',
+    'stage_name_ar' => 'stage_name_ar',
+    'stage_name_en' => 'stage_name_en',
+    'Notes' => 'Notes',
+    'submit' => 'Submit',
+
+    'Processes'=>'Processes',
+    'delete_property_Error'=>'The Property cannot be deleted because there are classes attached to it',
+    'Edit'=>'Edit',
+    'exists'=>'This Property Already Exists',
+    'Delete'=>'Delete',
+    'Close' => 'Close',
+    'return' => 'Return',
+    'created_at'=>'Create Date',
+
+
+    'title'              =>'Title',
+    'city'               =>'City',
+    'address'            =>'Address',
+    'nearby'             =>'Nearby',
+    'description'        =>'Description',
+    'Price'              =>'Price',
+    'Location'           =>'Location',
+
+
+
+    'images'                =>'Images',
+    'photo'                 =>'Photo',
+    'title_ar'              =>'Arabic Title',
+    'title_en'              =>'English Title',
+    'price'                 =>'Price',
+    'discount'              =>'Duration',
+    'new_price'             =>'Duration Value',
+    'purpose'               =>'Purpose',
+    'status'                =>'Status',
+    'size'                  =>'Size',
+    'video'                 =>'Video',
+    'floornumber'           =>'Floor Number',
+    'no_of_floor'           =>'No.Of.Property Floors',
+    'bedroom'               =>'Bedroom',
+    'bathroom'              =>'Bathroom',
+    'city_ar'               =>'City In Arabic',
+    'city_en'               =>'City In English',
+    'address_ar'            =>'Address In Arabic',
+    'address_en'            =>'Address In English',
+    'nearby_ar'             =>'Nearby In Arabic',
+    'nearby_en'             =>'Nearby In English',
+    'description_ar'        =>'Description In Arabic',
+    'description_en'        =>'Description In English',
+    'location_latitude'     =>'Location_Latitude',
+    'location_longitude'    =>'Location_Longitude',
+    'category_id'           =>'Category Name',
+
+
+    'sale'                  =>'SALE',
+    'rent'                  =>'RENT',
+    '-- Please Select --'   =>'-- Please Select --',
+    'for_sale'              =>'Still For Sale',
+    'sold'                  =>'Sold',
+    'new'                   =>'NEW',
+    'used'                  =>'USED',
+    'Used'                  =>'Used',
+];

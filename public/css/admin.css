@@ -1,0 +1,233 @@
+select.form-control.form-control-sm {
+    padding-top: 13px;
+}
+
+.modual_space{
+    padding: 10px 0px 5px;
+}
+.make-space{
+    padding: 15px 15px 5px;
+}
+
+
+/*----------begin  aboutus dashboard-------------*/
+.about-head{
+    font-size: 2.288rem;
+    background-color: silver;
+    line-height: 2.288rem;
+    padding: 15px;
+}
+.about-head2{
+font-size: 2rem;
+background-color: silver;
+line-height: 2.288rem;
+padding: 15px;
+}
+
+.about-counting{
+background-color: lavender;
+margin: 20px 0px 35px 0px;
+padding: 15px 10px 15px 10px;
+font-size: x-large;
+}
+
+.about-parag {
+font-size: large;
+padding: 10px 40px 100px 40px;
+border-bottom: inset;
+}
+.about-parag1 {
+font-size: large;
+}
+
+/*----------end  aboutus dashboard-------------*/
+
+
+
+
+
+
+
+
+.row.beauty_top {
+    border-top: outset;
+    border-bottom: inset;
+    padding: 15px 44px 15px 0px;
+}
+.row.beauty {
+    border-bottom: inset;
+    padding: 15px 44px 15px 0px;
+}
+
+.row.beauty1 {
+    padding: 15px 44px 15px 0px;
+}
+
+h2.help{
+    position: absolute;
+    margin-top: -31px;
+    right: 0px;
+    background: rgb(252, 252, 252);
+    font-size: 15px;
+    font-weight: bold;
+    padding: 0px 6px 0px 6px;
+}
+
+.choose{
+    font-family: -webkit-body;
+}
+
+.back_property{
+    float: left;
+    color: #f8f9fa;
+    background-color: #dc3545;
+    width: 97px;
+    height: 37px;
+}
+
+/* show single property */
+.space{
+    margin-top: 60px;
+    margin-bottom: 25px;
+}
+.small_space{
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+select#used,
+select#purpose,
+select#status,
+select#category_id,
+select#feature_id{
+    padding-bottom: 9px;
+
+}
+img.single_photo {
+    width: 670px;
+    height: 540px;
+}
+.title_design {
+    background-color: #212529;
+    color: white;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 25px;
+    height: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+/* h2.h2-space {
+    margin-top: 60px;
+    padding-top: 10px;
+} */
+
+.gallery{
+    width: 818px !important;
+     margin-left: -160px;
+}
+/* multi image */
+.krajee-default.file-preview-frame .kv-file-content {
+    width: 240px;
+    height: 238px;
+}
+img.file-preview-image.kv-preview-data {
+    width: 240px !important;
+    height: 240px !important;
+}
+
+
+
+button.btn.btn-danger.btn-sm.given_ar {
+    margin-right: 8px;
+}
+
+td.aaa {
+    display: inline-flex;
+}
+select.form-control-sm:not([size]):not([multiple]) {
+    padding: 13px ;
+}
+
+.card.bg-gradient-default.dashboard_track {
+    height: 310px;
+}
+.modal-dialog select.form-control:not([size]):not([multiple]) {
+    padding: 9px;
+}
+
+td.property-td .btn-sm {
+    margin-left: 5px;
+    margin-top: 14px;
+}
+td.property-td {
+    display: flex;
+    margin-left: 10px;
+}
+
+
+
+
+.about-head{
+    font-size: 2.288rem;
+    background-color: silver;
+    line-height: 2.288rem;
+    padding: 15px;
+}
+.about-head2{
+font-size: 2rem;
+background-color: silver;
+line-height: 2.288rem;
+padding: 15px;
+}
+
+.about-counting{
+background-color: lavender;
+margin: 20px 0px 35px 0px;
+padding: 15px 10px 15px 10px;
+font-size: x-large;
+}
+
+.about-parag {
+font-size: large;
+/* background-color: lavender; */
+padding: 10px 10px 10px 48px;
+border-bottom: inset;
+}
+.about-parag1 {
+font-size: large;
+/* background-color: lavender; */
+}
+
+/*end*/
+
+
+
+.contactus form textarea{
+    height: 120px !important;
+}
+
+
+
+
+/* ----------------------  Last Edition  -------------------------------- */
+.space_top{
+    margin-top: 20px;
+}
+
+/* div#datatable_length {
+    text-align: right;
+} */
+select.form-control.choose_filter:not([size]):not([multiple]) {
+    height: calc(2.8rem + 8px);
+    padding-top: 10px;
+
+}
+select.form-control.filter_edit:not([size]):not([multiple]) {
+    height: calc(2.8rem + 8px);
+    padding-top: 10px;
+    margin-top: -8px;
+}
+
+.editt{
+    padding-left: 35px;
+}
